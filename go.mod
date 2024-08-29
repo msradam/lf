@@ -3,7 +3,7 @@ module github.com/gokcehan/lf
 go 1.18
 
 require (
-	github.com/msradam/times@zos-port v1.6.0
+	github.com/msradam/times v1.6.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gdamore/tcell/v2 v2.7.4
 	github.com/mattn/go-runewidth v0.0.16
