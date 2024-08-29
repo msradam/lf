@@ -2,10 +2,10 @@ module github.com/gokcehan/lf
 
 go 1.18
 
-replace github.com/msradam/times => /u/ibmuser/go/pkg/mod/github.com/msradam/times@v0.0.0-20240829032101-0919a0c8c9a5
+replace github.com/djherbis/times => /u/ibmuser/go/pkg/mod/github.com/djherbis/times@v0.0.0-20240829032101-0919a0c8c9a5
 
 require (
-	github.com/msradam/times v1.6.0
+	github.com/djherbis/times v1.6.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/gdamore/tcell/v2 v2.7.4
 	github.com/mattn/go-runewidth v0.0.16
