@@ -66,6 +66,7 @@ build linux mipsle
 build linux mips64
 build linux mips64le
 build linux s390x
+build zos s390x
 build netbsd 386
 build netbsd amd64
 build netbsd arm
